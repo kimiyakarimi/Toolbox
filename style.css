@@ -2,3 +2,13 @@
 	margin: 50px auto;
 	max-width: 500px;
 }
+.text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    direction: ltr;
+    text-align: center;
+}
+.video {
+    align-items: center;
+}
